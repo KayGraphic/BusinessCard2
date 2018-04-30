@@ -8,12 +8,6 @@
     tools:context=".MainActivity">
 
 
-    <ImageView
-        android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:layout_gravity="center"
-        android:src="@drawable/archiveSeal" />
-
     <TextView
 
         android:layout_width="wrap_content"
@@ -47,6 +41,14 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="@string/text_tagline" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="image of a television with 8 stars around it in a circle"
+        app:srcCompat="@drawable/archiveseal" />
+
 
 
 </LinearLayout>
