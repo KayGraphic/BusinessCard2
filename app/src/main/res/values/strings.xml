@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IAAC</string>
+    <string name="text_name">The Indiana Archive of Abandoned Technology</string>
+    <string name="text_phone">(260)-555-5555</string>
+    <string name="text_hours">M-F:1pm-5pm</string>
+    <string name="text_address">1835 S. Calhoun Suite 1 Fort Wayne, IN 46802</string>
+    <string name="text_tagline">\"As We Ourselves Have Been Abandoned\"</string>
+    <string name="text_web">http://www.indianaarchive.com</string>
+</resources>
