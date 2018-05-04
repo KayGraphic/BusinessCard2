@@ -1,9 +1,15 @@
 <resources>
     <string name="app_name">IAAC</string>
     <string name="text_name">The Indiana Archive of Abandoned Technology</string>
-    <string name="text_phone">(260)-555-5555</string>
+    <string name="phone_number">(260) 555&#8211;5555</string>
     <string name="text_hours">M-F:1pm-5pm</string>
     <string name="text_address">1835 S. Calhoun Suite 1 Fort Wayne, IN 46802</string>
     <string name="text_tagline">\"As We Ourselves Have Been Abandoned\"</string>
     <string name="text_web">http://www.indianaarchive.com</string>
+    <string name="text_other">image of a television with 8 stars around it in a circle</string>
+    <string name="instagram_address">https://www.instagram.com/indiana_archive</string>
+    <string name="instagram_description">Check out or Instagram account</string>
+    <string name="address_url">1835+South+Calhoun+Street+Fort+Wayne,+IN+46802</string>
+    <string name="facebook_description">Check out or Facebook account</string>
+    <string name="facebook_address">https://www.facebook.com/YourTvWasDead/</string>
 </resources>
